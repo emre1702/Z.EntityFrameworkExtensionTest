@@ -1,0 +1,2 @@
+
+[24.01.2020 17:46:53] Entity Framework Core 3.1.1 initialized 'TestDbContext' using provider 'Npgsql.EntityFrameworkCore.PostgreSQL' with options: None
